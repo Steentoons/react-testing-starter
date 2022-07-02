@@ -9855,19 +9855,6 @@
       "requestResolvedAt": "",
       "createdAt": "2019-06-27T22:24:04.794Z",
       "modifiedAt": "2020-05-21T04:58:44.494Z"
-    },
-    {
-      "id": "oQJ7HSeVV",
-      "uuid": "fbf7eee0-fc19-4706-b68e-7c47a3e388c0",
-      "amount": 100000,
-      "description": "This is a note",
-      "receiverId": "bDjUb4ir5O",
-      "senderId": "t45AiwidW",
-      "privacyLevel": "public",
-      "status": "pending",
-      "requestStatus": "pending",
-      "createdAt": "2022-06-28T21:03:51.382Z",
-      "modifiedAt": "2022-06-28T21:03:51.382Z"
     }
   ],
   "likes": [
@@ -10111,7 +10098,7 @@
       "userId": "t45AiwidW",
       "transactionId": "xAsSYDsiEGSj",
       "status": "received",
-      "isRead": true,
+      "isRead": false,
       "createdAt": "2019-11-12T12:51:00.239Z",
       "modifiedAt": "2020-05-21T18:26:16.366Z"
     },
@@ -10444,16 +10431,6 @@
       "isRead": false,
       "createdAt": "2019-10-19T20:50:49.292Z",
       "modifiedAt": "2020-05-21T21:00:50.192Z"
-    },
-    {
-      "id": "nF7vhlHbPP",
-      "uuid": "9a0fa577-6e42-496b-9103-5eecf82cb72f",
-      "userId": "bDjUb4ir5O",
-      "transactionId": "oQJ7HSeVV",
-      "status": "requested",
-      "isRead": false,
-      "createdAt": "2022-06-28T21:03:51.415Z",
-      "modifiedAt": "2022-06-28T21:03:51.415Z"
     }
   ],
   "banktransfers": [
